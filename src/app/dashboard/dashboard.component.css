@@ -19,3 +19,7 @@
 .dashboard-card-content {
   text-align: center;
 }
+.dashboard-card-content {
+  overflow-x: scroll !important;
+  overflow-y: scroll !important;
+}
